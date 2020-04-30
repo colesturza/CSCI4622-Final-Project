@@ -20,4 +20,6 @@ https://github.com/mdeff/fma
 
 https://towardsdatascience.com/using-cnns-and-rnns-for-music-genre-recognition-2435fb2ed6af
 
+https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
+
 https://librosa.github.io/librosa/
