@@ -1,5 +1,19 @@
 # CSCI4622-Project
 
+There are multiple jupyter notebooks in this repository.
+
+The order you should view them in to see my process is as follows:
+
+1. data_exploration.ipynb
+
+2. KNN.ipynb
+
+3. SVM.ipynb
+
+4. data_processing.ipynb
+
+5.
+
 ## Sources:
 
 G. Tzanetakis and P. Cook, "Musical genre classification of audio signals," in IEEE Transactions on Speech and Audio Processing, vol. 10, no. 5, pp. 293-302, July 2002. \
