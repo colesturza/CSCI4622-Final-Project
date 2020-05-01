@@ -4,15 +4,17 @@ There are multiple jupyter notebooks in this repository.
 
 The order you should view them in to see my process is as follows:
 
-1. data_exploration.ipynb
+1. preprocess_data.ipynb
 
-2. KNN.ipynb
+2. knn.ipynb
 
-3. SVM.ipynb
+3. svc.ipynb
 
-4. data_processing.ipynb
+4. cnn.ipynb
 
-5.
+5. crnn-parallel.ipynb
+
+5. crnn.ipynb
 
 ## Sources:
 
@@ -26,6 +28,8 @@ Feng, Lin, Shenlan Liu, and Jianing Yao. "Music genre classification with parall
 https://arxiv.org/abs/1712.08370
 
 ## Datasets:
+
+I had to settle for a smaller dataset becasue my computer would crash when working with the FMA dataset. The GZTAN Genre Collection has 1000 songs. I was originally going to use 8000.
 
 GTZAN Genre Collection \
 http://marsyas.info/downloads/datasets.html
