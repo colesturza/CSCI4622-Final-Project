@@ -2,7 +2,7 @@
 
 There are multiple jupyter notebooks in this repository.
 
-The order you should view them in to see my process is as follows:
+The order you should view them in is as follows:
 
 1. preprocess_data.ipynb
 
@@ -12,7 +12,7 @@ The order you should view them in to see my process is as follows:
 
 4. cnn.ipynb
 
-5. crnn-parallel.ipynb
+5. cnn-rnn-parallel.ipynb
 
 5. crnn.ipynb
 
