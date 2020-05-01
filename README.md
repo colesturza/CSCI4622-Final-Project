@@ -27,6 +27,11 @@ https://arxiv.org/abs/1712.08370
 
 ## Datasets:
 
+GTZAN Genre Collection \
+http://marsyas.info/downloads/datasets.html
+
+Originally I wanted to use the FMA dataset, but it was too much for my laptop at the time. Even the small dataset would crash when I would try and load all the melspectrograms.
+
 Defferrard, Michaël, et al. "Fma: A dataset for music analysis." arXiv preprint arXiv:1612.01840 (2016). \
 https://github.com/mdeff/fma
 
