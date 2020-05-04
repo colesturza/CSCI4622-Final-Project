@@ -14,7 +14,7 @@ The order you should view them in is as follows:
 
 5. cnn.ipynb
 
-6. cnn-rnn-parallel.ipynb
+6. prcnn.ipynb
 
 ## Sources:
 
