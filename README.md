@@ -1,5 +1,11 @@
 # CSCI4622-Project
 
+The cnn.ipynb and prcnn.ipynb are stored in Google Colab notebooks, they can be accessed at these links:
+
+https://drive.google.com/file/d/1qX6o7VZWWyyPKafRh2h1aZh45IdiBcQS/view?usp=sharing
+
+https://drive.google.com/file/d/1dVJwqi6wfjYsCGk_8MtEBo9H9wJ3_26F/view?usp=sharing
+
 There are multiple jupyter notebooks in this repository.
 
 The order you should view them in is as follows:
