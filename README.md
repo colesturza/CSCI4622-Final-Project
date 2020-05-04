@@ -6,15 +6,15 @@ The order you should view them in is as follows:
 
 1. preprocess_data.ipynb
 
-2. knn.ipynb
+2. pca.ipynb
 
-3. svc.ipynb
+3. knn.ipynb
 
-4. cnn.ipynb
+4. svc.ipynb
 
-5. cnn-rnn-parallel.ipynb
+5. cnn.ipynb
 
-5. crnn.ipynb
+6. cnn-rnn-parallel.ipynb
 
 ## Sources:
 
